@@ -28,7 +28,7 @@ def arrange(a):
 
 def package():
     files = []
-    directory = '/Users/general/Utep/map-reduce-maholguin6'
+    directory = '<folder>'
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
         if os.path.isfile(f):
