@@ -1,0 +1,2 @@
+model name	: Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz
+      4      36     220

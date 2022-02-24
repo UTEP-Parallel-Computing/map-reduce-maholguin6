@@ -1,0 +1,272 @@
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+love   :2921
+macbeth:282
+night  :1366
+time   :1757
+my     :13077
+blood  :988
+death  :998
+hate   :325
+heart  :1431
+sleep  :460
+poison :137
+honest :423
+number of Threads: 1 -- Ellapsed time: 22.081076361995656
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+love   :2921
+macbeth:282
+night  :1366
+time   :1757
+my     :13077
+blood  :988
+death  :998
+hate   :325
+heart  :1431
+sleep  :460
+poison :137
+honest :423
+number of Threads: 2 -- Ellapsed time: 23.437790739000775
+you    :19462
+king   :4433
+hamlet :470
+henry  :647
+my     :13077
+death  :998
+time   :1757
+honest :423
+love   :2921
+macbeth:282
+night  :1366
+heart  :1431
+blood  :988
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 3 -- Ellapsed time: 18.389872719002597
+you    :19462
+king   :4433
+henry  :647
+hamlet :470
+my     :13077
+death  :998
+time   :1757
+blood  :988
+honest :423
+love   :2921
+macbeth:282
+night  :1365
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 4 -- Ellapsed time: 14.753979428998719
+you    :19462
+king   :4433
+hamlet :470
+henry  :647
+my     :13077
+death  :998
+time   :1757
+love   :2921
+macbeth:282
+honest :423
+night  :1366
+blood  :988
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 5 -- Ellapsed time: 16.770662970004196
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+my     :13077
+death  :998
+time   :1757
+love   :2921
+macbeth:282
+night  :1366
+honest :423
+blood  :988
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 6 -- Ellapsed time: 14.778003116000036
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+love   :2921
+my     :13077
+macbeth:282
+death  :998
+night  :1366
+time   :1757
+honest :423
+blood  :988
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 7 -- Ellapsed time: 6.887718876998406
+you    :19462
+king   :4433
+hamlet :470
+henry  :647
+my     :13077
+death  :998
+time   :1757
+honest :423
+love   :2921
+macbeth:282
+night  :1366
+blood  :988
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 8 -- Ellapsed time: 3.0911261619985453
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+love   :2921
+macbeth:282
+night  :1366
+time   :1757
+my     :13077
+blood  :988
+death  :998
+hate   :325
+heart  :1431
+honest :423
+sleep  :460
+poison :137
+number of Threads: 9 -- Ellapsed time: 0.13761258399608778
+king   :4433
+you    :19462
+henry  :647
+hamlet :470
+my     :13077
+death  :998
+time   :1756
+honest :423
+blood  :988
+love   :2921
+macbeth:282
+night  :1365
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 10 -- Ellapsed time: 0.1324173319953843
+you    :19462
+hamlet :470
+king   :4433
+henry  :647
+my     :13077
+death  :998
+time   :1757
+love   :2920
+macbeth:282
+honest :423
+night  :1366
+blood  :988
+heart  :1431
+hate   :324
+sleep  :460
+poison :137
+number of Threads: 11 -- Ellapsed time: 0.11047757000051206
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+love   :2921
+macbeth:282
+night  :1366
+time   :1757
+my     :13076
+blood  :988
+death  :998
+honest :423
+hate   :325
+heart  :1431
+sleep  :460
+poison :137
+number of Threads: 12 -- Ellapsed time: 0.11492269799782662
+you    :19462
+hamlet :470
+king   :4433
+henry  :647
+my     :13077
+death  :998
+time   :1756
+love   :2921
+macbeth:282
+night  :1366
+honest :423
+blood  :988
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 13 -- Ellapsed time: 0.12624101399705978
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+my     :13077
+love   :2921
+death  :998
+macbeth:282
+night  :1366
+time   :1757
+honest :423
+blood  :988
+heart  :1430
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 14 -- Ellapsed time: 0.08800828899984481
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+love   :2921
+macbeth:282
+night  :1366
+time   :1757
+my     :13077
+blood  :988
+death  :998
+hate   :325
+heart  :1431
+honest :423
+sleep  :460
+poison :137
+number of Threads: 15 -- Ellapsed time: 0.14848057899507694
+you    :19462
+hamlet :470
+henry  :647
+king   :4433
+my     :13077
+love   :2921
+death  :998
+macbeth:282
+night  :1366
+time   :1757
+honest :423
+blood  :988
+heart  :1431
+hate   :325
+sleep  :460
+poison :137
+number of Threads: 16 -- Ellapsed time: 0.1322612539952388

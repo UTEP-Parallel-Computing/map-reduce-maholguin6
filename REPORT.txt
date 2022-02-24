@@ -1,0 +1,13 @@
+map-reduce report.
+
+serial version of the program is called wordCount.py and the parallel version is mrp.py.
+after several attempts to make the program in parallel run as the serial version.
+ I finally get it to work and show consistent result to be able to present it.
+the major advantages I see are that running the parallel version i have a better understanding about the cpu
+and how it perform processes.   I was able to make the program run just a liitle faster than the serial version.
+setting the locks and placing the parrallel portion was a really hard task to tackle but finally after several attempts it was done.
+i see a gread change in times from one thead up to 6 threads  then passing 8 threads the program was running e n 23 times as fast as a single tread.
+ the cpuinfo and the result of the test are in two different files called cpuinfo and 
+   -output.txt 
+
+name Martin Holguin.
