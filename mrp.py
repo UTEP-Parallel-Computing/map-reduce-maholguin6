@@ -18,12 +18,12 @@ itemsToIterate = ['shakespeare1.txt','shakespeare2.txt','shakespeare3.txt','shak
          'shakespeare7.txt',
          'shakespeare8.txt']
 """
-def dictOfItems(itemsToIterate=[]):
+def dictOfItems(itemsToIterate=[], threads=1):
     # create a shared dict
     sharedDict = pymp.shared.dict()
     
 
-    with pymp.Parallel() as p:
+    with pymp.Parallel(threads) as p:
         listOfItems = ['hate','love','death','night',
                   'sleep','time','henry','hamlet',
                   'you','my','blood','poison',
@@ -58,6 +58,10 @@ def dictOfItems(itemsToIterate=[]):
     return sharedDict, completed
     
 
-dic, tim = dictOfItems(itemsToIterate)
-print(f'dittionary: {dic}')
-print(f'duration time: {tim}')
+
+
+for t in range(1,17):
+    dic, tim = dictOfItems(itemsToIterate, t)
+    for k,v in dic.items():
+        print(f'{k:7}:{v}')
+    print(f'number of Threads: {t} -- Ellapsed time: {tim}')
