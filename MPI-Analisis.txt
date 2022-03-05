@@ -1,0 +1,6 @@
+the results are very unlikely to redeemable the original or even the map reduce with parallel
+I couldn't figure out out to make it work with my code.
+At first I was completly lost then I fond some ways to make it somehoe work.
+maybe what i nedded was to brak my code into smaller sections to modularizes the jprocess.
+unfortunatly I ran out of time. the times were excellent compared to the serial version and even parallel versions.
+my cpu iin fis the same and its located in the repo.
