@@ -1,0 +1,16 @@
+you 23304
+hamlet 475
+king 4545
+henry 661
+love 3070
+macbeth 288
+night 1402
+time 1806
+my 14203
+blood 1009
+death 1016
+hate 332
+heart 1458
+sleep 470
+poison 139
+honest 434
