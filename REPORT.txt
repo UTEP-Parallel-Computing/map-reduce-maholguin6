@@ -11,3 +11,6 @@ i see a gread change in times from one thead up to 6 threads  then passing 8 thr
    -output.txt 
 
 name Martin Holguin.
+
+
+update.   the final working version of the MPI map reduce is called mpi-final-working-version.py. it needs to import the maphelper.py class. also the txt files must be inside a folder called files.
